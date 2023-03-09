@@ -1,3 +1,2 @@
-# Week Assignment 3
+# Week Assignments
 Week 3 Assignment
-This is just my week 3 assignment for finland pathway programme, nothing special about this......
